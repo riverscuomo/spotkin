@@ -6,7 +6,7 @@ A python package that updates one or more of your Spotify playlists every day wi
 
 For example, I have a playlist called ["Rivers Radio"](https://open.spotify.com/playlist/1HaQfSGjNzIsiC5qOsCUcW?si=861bc59c458b4b0a) that is updated by Spotnik every day.
     
-I developed this script because I didn't like fiddling with the Spotify app all the time. I just wanted a great selection of music in one playlist every day. I've been it using it every day for a few years. It's run automatically at 2am by a Windows Task Scheduler job. It works best when you draw from many playlists, especially:
+I developed this script because I didn't like fiddling with the Spotify app all the time. I just wanted a great selection of music in one playlist every day. I've been using it every day for a few years. It's run automatically at 2am by a Windows Task Scheduler job. It works best when you draw from many playlists, especially:
 
 - dynamic playlists like "New Music Friday" or "Today's Top Hits" because they frequently change
 - large curated playlists like Rolling Stone's "fivehundredalbums"
